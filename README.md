@@ -1,1 +1,1 @@
-repo on sentiment analysis
+sentiment analysis using VADER
